@@ -1,0 +1,6 @@
+I used MySQL
+My DB and table name was 'user'
+In very simple way i tried to demonstrate it.
+Next we will learn how to implement JWT for authorization.
+
+if you like this small push towards learning. follow my github repo.
